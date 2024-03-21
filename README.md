@@ -1,0 +1,1 @@
+This repository contains a simple Python program to generate Fibonacci numbers based on the mathematical recurrence relationship F(n) = F(n-1) + F(n-2). The program uses a generator function, allowing the user to easily generate a specified number of Fibonacci numbers.
